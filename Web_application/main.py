@@ -22,7 +22,7 @@ st.set_page_config(page_title="Stock Prediction App", page_icon="📈")
 
 
 # # Load your image
-image = Image.open('Images/stock_pred.jpg')
+image = Image.open('../Images/stock_pred.jpg')
 st.image(image, caption="Stock Prediction")
 
 
@@ -71,9 +71,9 @@ def get_indicator(aapl_data):
 def load_model(model_name):
 
     if model_name == 'GRU':
-        model = models.load_model('Models/gru_model.h5')
+        model = models.load_model('../Models/gru_model.h5')
     elif model_name == "LSTM":
-        model = models.load_model('Models/lstm_model.h5')
+        model = models.load_model('../Models/lstm_model.h5')
     else:
         st.error("Invalid model selected")
         model = None
@@ -82,8 +82,8 @@ def load_model(model_name):
 
 @st.cache_resource()
 def load_scalers():
-    X_scaler = joblib_load('Scaler/X_scaler.joblib')
-    y_scaler = joblib_load('Scaler/y_scaler.joblib')
+    X_scaler = joblib_load('../Scaler/X_scaler.joblib')
+    y_scaler = joblib_load('../Scaler/y_scaler.joblib')
     return X_scaler, y_scaler
 
     
