@@ -7,6 +7,9 @@ To use this project, first clone the repo on your device using the command below
 ```
 git init
 
+```
+
+```
 https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis.git
 ```
 
