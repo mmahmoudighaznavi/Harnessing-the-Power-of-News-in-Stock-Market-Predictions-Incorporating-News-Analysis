@@ -75,7 +75,7 @@ Initially, we explored Recurrent Neural Networks (RNN) for modeling stock market
 
 To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.
 <p align="center">
-  <img src="https://github.com/ruddysimon/Harnessing-he-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/lstm.png" alt="LSTM Network">
+  <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/lstm.png" alt="LSTM Network">
 </p>
 
 ## Partners/Contributors
