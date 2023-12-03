@@ -1,17 +1,38 @@
 # ADS599: Capstone - Harnessing News Analysis for Enhanced Stock Market Predictions
 
----
 
-Project Status: Active
 
-***Installation*** 
-To use this project, first clone the repo on your device using the command below:
-```
-git init
+**Project Status: Active**
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis.git
 ```
 
+Go to the project directory
+
+```bash
+  cd WebApp
 ```
-https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis.git
+
+Install dependencies
+
+```bash
+  pip install pandas
+  pip install numpy
+  pip install yfinance
+  pip install keras
+  pip install streamlit
+```
+
+Start the server
+
+```bash
+  streamlit run main.py
 ```
 
 ## Project Introduction
@@ -20,29 +41,36 @@ The primary goal of this project is to explore the impact of news sentiment on s
 ## Project Objective
 This project endeavors to decode the intricate relationship between news sentiment and stock market fluctuations. Employing sophisticated deep learning models like GRU and LSTM, it aims to predict stock market trends and analyze the correlation with news sentiment. The research could potentially unlock new avenues in predictive analytics in finance, shedding light on how external information sources influence market dynamics.
 
-** Partners/Contributors*
+## Partners/Contributors
 
-Ruddy Simonpour: Data Scientist with over 2 years of experience. Former AI/Data Analyst Intern at City of Palo Alto, Data Scientist at GetMotivatedBuddies, and currently working at the University of San Diego. Expertise in predictive modeling, transformers, machine learning, and data analysis.
+**Ruddy Simonpour:** 
+Data Scientist with over 2 years of experience. Former AI/Data Analyst Intern at City of Palo Alto, Data Scientist at GetMotivatedBuddies, and currently working at the University of San Diego. Expertise in predictive modeling, transformers, machine learning, and data analysis.
 
-Email: Ruddys@sandiego.edu
+Email: Ruddys@sandiego.edu  
 Website: www.ruddysimon.com
-Mohammad Mahmoudighaznavi: Data Scientist with expertise in machine learning and data analysis.
 
-** Methods Used*
+**Mohammad Mahmoudighaznavi:**  
+Data Scientist with expertise in machine learning and data analysis.  
+Email: mmahmoudighaznavi@sandiego.edu
 
-Data Exploration
-Predictive Modeling
-Statistical Analysis
-Sentimental Analysis
-Data Modeling
-Data Pre-processing
-Visualization
-Natural Language Processing (Langchain, LLM)
-** Technologies*
+---
+## Methods Used    
+- [ ] Data Exploration
+- [ ] Predictive Modeling
+- [ ] Statistical Analysis
+- [ ] Sentimental Analysis
+- [ ] Data Modeling
+- [ ] Data Pre-processing
+- [ ] Visualization
+- [ ] Natural Language Processing (Langchain, LLM)
+  
+### Technologies
 
-Python
+- [ ] Python
+
 ** License*
 A license determines how others can use, modify, and distribute your project. Common licenses include MIT, GPL, and Apache. For open-source projects, the MIT License is popular due to its permissiveness. Add a LICENSE file in your project folder.
 
 ** Acknowledgments*
 Acknowledgments to those who assisted or contributed to the project.
+
