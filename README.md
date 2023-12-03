@@ -93,16 +93,16 @@ Email: mmahmoudighaznavi@sandiego.edu
 - [ ] Visualization
 - [ ] Natural Language Processing (Langchain, LLM)
 
+### Technologies
+- [ ] Python
+
+
 ## Project framework
 
 <p align = "center">
   <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/framework.png">
 </p>
   
-### Technologies
-
-- [ ] Python
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
