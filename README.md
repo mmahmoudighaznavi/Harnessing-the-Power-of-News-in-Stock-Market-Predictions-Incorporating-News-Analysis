@@ -70,11 +70,12 @@ Our approach involves utilizing overlapping windows to capture the sequential de
 **RNN and Advancements to LSTM and GRU**  
 Initially, we explored Recurrent Neural Networks (RNN) for modeling stock market predictions. However, we found that RNNs have limitations in retaining sequential information over extended periods.
 <p align="center">
-  <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/rnn.png" alt="RNN Network" width="300" height="200"/>
+  <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/rnn.png" alt="RNN Network">
 </p>
 
-To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.!<p align="center">
-  <img src="https://github.com/ruddysimon/Harnessing-he-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/lstm.png" alt="LSTM Network" width="300" height="200"/>
+To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.
+<p align="center">
+  <img src="https://github.com/ruddysimon/Harnessing-he-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/lstm.png" alt="LSTM Network">
 </p>
 
 ## Partners/Contributors
