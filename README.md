@@ -1,9 +1,14 @@
 ## ADS599: Capstone - Harnessing News Analysis for Enhanced Stock Market Predictions
+
 Project Status: Active
+
 ***Installation*** 
-'''
-dfghd
-'''
+```
+To use this project, first clone the repo on your device using the command below:
+
+-[] git init
+-[] https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis.git
+```
 ** Project Intro/Objective*
 The primary goal of this project is to explore the impact of news sentiment on stock market movements. We employ advanced deep learning models, such as GRU and LSTM, to predict stock market trends. By integrating news analysis, we aim to discover correlations between stock market behavior and the sentiment conveyed in news articles.
 
