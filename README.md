@@ -34,7 +34,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Web-App
+  cd Web-application
 ```
 
 Install dependencies
@@ -92,6 +92,10 @@ Email: mmahmoudighaznavi@sandiego.edu
 - [ ] Data Pre-processing
 - [ ] Visualization
 - [ ] Natural Language Processing (Langchain, LLM)
+
+## Project framework
+
+[Project workflow](https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/framework.png)
   
 ### Technologies
 
