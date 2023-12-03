@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd WebApp
+  cd Web-App
 ```
 
 Install dependencies
@@ -40,6 +40,17 @@ The primary goal of this project is to explore the impact of news sentiment on s
 
 ## Project Objective
 This project endeavors to decode the intricate relationship between news sentiment and stock market fluctuations. Employing sophisticated deep learning models like GRU and LSTM, it aims to predict stock market trends and analyze the correlation with news sentiment. The research could potentially unlock new avenues in predictive analytics in finance, shedding light on how external information sources influence market dynamics.
+
+### Methodology 
+
+**Data Splitting in Time Series Analysis**  
+We split the data into training and testing sets for time series forecasting. This split is crucial to prevent data leakage and ensure that our test data always lies in the future, relative to the training data. By doing so, we avoid the unrealistic scenario of training our model with future data, which can lead to misleading results.
+
+**Time Series Forecasting using Overlapping Windows**  
+Our approach involves utilizing overlapping windows to capture the sequential dependencies inherent in time series data. Each window encompasses a set of data points from the past to predict the next point. For example, with a window size of two, we use two consecutive data points to forecast the subsequent point. This method ensures a comprehensive understanding of the temporal patterns within the data.
+
+**RNN and Advancements to LSTM and GRU**  
+Initially, we explored Recurrent Neural Networks (RNN) for modeling stock market predictions. However, we found that RNNs have limitations in retaining sequential information over extended periods. To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.
 
 ## Partners/Contributors
 
