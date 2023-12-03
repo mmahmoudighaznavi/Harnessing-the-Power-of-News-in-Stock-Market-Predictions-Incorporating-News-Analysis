@@ -96,7 +96,7 @@ Email: mmahmoudighaznavi@sandiego.edu
 ## Project framework
 
 <p align = "center">
-  <img src="https://github.com/MSADS-Capstone/navigating_crime/blob/main/Image%20Folder/Miscellaneous%20Images/project_workflow_diagram.jpeg">
+  <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/framework.png">
 </p>
   
 ### Technologies
