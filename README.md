@@ -93,5 +93,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Acknowledgments
-We extend our sincere gratitude to Dr. Ebrahim Tarshizi, who played a pivotal role in the realization of this project as part of our ADS599 capstone course. As the Data Science and Artificial Intelligence Program Director at the University of San Diego (USD), Dr. Tarshizi’s guidance, expertise, and invaluable insights have been instrumental in shaping the direction and success of our work. His contributions to our learning journey and project development are deeply appreciated.
+We extend our sincere gratitude to [Dr. Ebrahim Tarshizi](https://onlinedegrees.sandiego.edu/faculty/ebrahim-k-tarshizi/), who played a pivotal role in the realization of this project as part of our ADS599 capstone course. As the Data Science and Artificial Intelligence Program Director at the University of San Diego (USD), Dr. Tarshizi’s guidance, expertise, and invaluable insights have been instrumental in shaping the direction and success of our work. His contributions to our learning journey and project development are deeply appreciated.
+
 
