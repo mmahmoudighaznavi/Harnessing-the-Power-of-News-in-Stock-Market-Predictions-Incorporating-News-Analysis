@@ -6,7 +6,7 @@
 
 # Table of Contents
 --------
-1. [Run Locally](#Run Locally)
+1. [Run Locally](#RunLocally)
 2. [Technologies](#Technologies)
 3. [Project Objective](#Project_Objective)
 4. [Project Overview](#project_overview)
