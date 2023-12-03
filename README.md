@@ -68,7 +68,10 @@ We split the data into training and testing sets for time series forecasting. Th
 Our approach involves utilizing overlapping windows to capture the sequential dependencies inherent in time series data. Each window encompasses a set of data points from the past to predict the next point. For example, with a window size of two, we use two consecutive data points to forecast the subsequent point. This method ensures a comprehensive understanding of the temporal patterns within the data.
 
 **RNN and Advancements to LSTM and GRU**  
-Initially, we explored Recurrent Neural Networks (RNN) for modeling stock market predictions. However, we found that RNNs have limitations in retaining sequential information over extended periods. To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.
+Initially, we explored Recurrent Neural Networks (RNN) for modeling stock market predictions. 
+![RNN network](https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/rnn.png)
+
+However, we found that RNNs have limitations in retaining sequential information over extended periods. To overcome this, we transitioned to more advanced models like Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU). These models are better equipped to handle the complexities of stock market prediction by effectively maintaining information across longer sequences.
 
 ## Partners/Contributors
 
