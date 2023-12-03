@@ -7,20 +7,20 @@
 # Table of Contents
 --------
 1. [Run Locally](#Run-Locally)
-2. [Technologies](#Technologies)
-3. [Project Objective](#Project_Objective)
+2. [Project Introduction](#Project-Introduction)
+3. [Project Objective](#Project-Objective)
 4. [Project Overview](#project_overview)
-5. [Web Applications](#web-applications)
-6. [Code Library](#code-library)
-7. [Dataset](#dataset)
-8. [Project Workflow Diagram](#project-workflow-diagram)
-9. [Visualizations](#visualizations)
-10. [Modeling & Model Evaluation](#modeling_&_model_evaluation)
+5. [Methodology](#Methodology)
+6. [Partners/Contributors](#Partners/Contributors)
+7. [Methods Used](#Methods-Used)
+8. [Project Framework](#Project-Framework)
+9. [Modeling & Model Evaluation](#modeling_&_model_evaluation)
 11. [Conclusion](#conclusion)
 12. [References](#references)
 13. [License](#license)
 14. [Acknowledements](#acknowledgements)
 --------
+
 
 
 ## Run Locally
