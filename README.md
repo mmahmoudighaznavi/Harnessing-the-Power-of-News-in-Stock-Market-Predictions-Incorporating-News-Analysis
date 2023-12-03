@@ -93,7 +93,7 @@ Email: mmahmoudighaznavi@sandiego.edu
 - [ ] Visualization
 - [ ] Natural Language Processing (Langchain, LLM)
 
-### Technologies
+## Technologies
 - [ ] Python
 
 
