@@ -60,6 +60,9 @@ This project endeavors to decode the intricate relationship between news sentime
 
 ### Methodology 
 
+**Sentiment Analysis**  
+Our Sentiment Analysis then gauged the tone of news articles, categorizing them into positive, negative or neutral sentiments.
+
 **Data Splitting in Time Series Analysis**  
 We split the data into training and testing sets for time series forecasting. This split is crucial to prevent data leakage and ensure that our test data always lies in the future, relative to the training data. By doing so, we avoid the unrealistic scenario of training our model with future data, which can lead to misleading results.
 
@@ -86,7 +89,7 @@ Email: Ruddys@sandiego.edu
 Website: www.ruddysimon.com
 
 **Mohammad Mahmoudighaznavi:**  
-Data Scientist with expertise in machine learning and data analysis.  
+Master's graduate in applied data science, equipped with a solid background in data analysis and machine learning, passionate about making a meaningful impact through high-impact data-driven projects.  
 Email: mmahmoudighaznavi@sandiego.edu
 
 ---
