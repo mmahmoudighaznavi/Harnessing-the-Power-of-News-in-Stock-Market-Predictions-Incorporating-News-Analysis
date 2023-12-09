@@ -61,7 +61,7 @@ This project endeavors to decode the intricate relationship between news sentime
 ### Methodology 
 
 **Sentiment Analysis**  
-Our Sentiment Analysis then gauged the tone of news articles, categorizing them into positive, negative or neutral sentiments.
+Our hypothesis centers on uncovering the link between news sentiment and stock price movements. We’re focused on how varying tones of news—whether positive, negative, or neutral—might influence the stocks of major players like Tesla and Apple.
 
 **Data Splitting in Time Series Analysis**  
 We split the data into training and testing sets for time series forecasting. This split is crucial to prevent data leakage and ensure that our test data always lies in the future, relative to the training data. By doing so, we avoid the unrealistic scenario of training our model with future data, which can lead to misleading results.
