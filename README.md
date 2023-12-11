@@ -101,7 +101,7 @@ Email: mmahmoudighaznavi@sandiego.edu
 - [ ] Data Modeling
 - [ ] Data Pre-processing
 - [ ] Visualization
-- [ ] Natural Language Processing (Langchain, LLM)
+
 
 ## Technologies
 - [ ] Python
@@ -111,6 +111,8 @@ Email: mmahmoudighaznavi@sandiego.edu
 <p align = "center">
   <img src="https://github.com/ruddysimon/Harnessing-the-Power-of-News-in-Stock-Market-Predictions-Incorporating-News-Analysis/blob/main/images/framework.png">
 </p>
+
+## Modeling and Evaluation 
 
 ## References
 
