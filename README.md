@@ -113,6 +113,8 @@ Email: mmahmoudighaznavi@sandiego.edu
 </p>
 
 ## Modeling and Evaluation 
+In the project, we employed two advanced neural network models, GRU and LSTM, to tackle the challenge of stock price prediction. Our thorough evaluation showed that the GRU model outperformed the LSTM in terms of prediction accuracy, as determined by a range of metrics including Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), R-squared (R²), and Root Mean Square Percentage Error (RMSPE). The superior performance of the GRU model was particularly evident in its ability to closely track the actual stock prices, which underscores its robustness and potential as a tool for financial forecasting in a market influenced by complex, dynamic factors.
+
 
 ## References
 
